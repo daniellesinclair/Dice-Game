@@ -5,6 +5,7 @@ git pull origin mai
 import random
 import statistics
 from diceart import dice_art
+asd
 
 class Player:
     def __init__(self, name):
