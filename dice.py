@@ -1,5 +1,5 @@
 # Dice art dictionary for visual representation of a dice
-dice_art = {
+dice_art = { lala
     1: (
         "┌─────────┐",
         "│         │",
